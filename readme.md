@@ -1,1 +1,1 @@
-## #GO by example
+# GO by example
